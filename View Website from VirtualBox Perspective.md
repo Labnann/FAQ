@@ -23,6 +23,7 @@ Example: for Seed Lab
 Now it will ask for password, then ask for permission if it is the first time: say yes.
 
 Connected:
+
 ![image](https://user-images.githubusercontent.com/55809005/135798213-bf8dc873-b524-435d-9a06-98742da346f6.png)
 
 
