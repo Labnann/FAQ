@@ -8,6 +8,10 @@ In VM go to Click Your Machine (IE. SeedUbuntu)>settings>networking>{Adapter Att
 
 I set Name: SSH, Host Port: 3022, Guest Port:22
 
+Now we start our VM - same old same old
+
+![image](https://user-images.githubusercontent.com/55809005/135799642-11b9e2c7-047e-49b2-ab7f-de2926b245e8.png)
+
 
 OK NOW IN WINDOWS 10:
 Run this
@@ -42,7 +46,8 @@ Set Socks v5 proxy `127.0.0.1:BROWSER_PORT_U_LIKE` \[To Follow Above Example: it
 
 And it works! Double Woohoo!! 🎉🎉
 
-![image](https://user-images.githubusercontent.com/55809005/135798723-31f5a2e6-c464-4697-b752-4d3de12e5d91.png)
+![image](https://user-images.githubusercontent.com/55809005/135799510-e9344712-17f5-4c09-80ee-66f5f106d57f.png)
+
 
 
 
