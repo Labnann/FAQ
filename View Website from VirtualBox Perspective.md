@@ -1,3 +1,15 @@
+###Goal: 
+
+After completing this tutorial, we will be able to connnect to virtual box vm with:
+
+`ssh -D 5533 -p 3022 seed@127.0.0.1`
+
+where seed is the username
+
+
+
+###Implementation:
+
 The procedure below connects your VirtualBox Machine with your host via SSH
 
 
