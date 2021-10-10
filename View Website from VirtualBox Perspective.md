@@ -1,4 +1,4 @@
-###Goal: 
+### Goal: 
 
 After completing this tutorial, we will be able to connnect to virtual box vm with:
 
@@ -8,7 +8,7 @@ where seed is the username
 
 
 
-###Implementation:
+### Implementation:
 
 The procedure below connects your VirtualBox Machine with your host via SSH
 
