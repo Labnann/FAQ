@@ -2,7 +2,9 @@
 
 After completing this tutorial, we will be able to connnect to virtual box vm whenever the machine is running with:
 
-```ssh -D 5533 -p 3022 seed@127.0.0.1```
+```
+ssh -D 5533 -p 3022 seed@127.0.0.1
+```
 
 where `seed` is the username
 
