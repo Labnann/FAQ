@@ -1,0 +1,27 @@
+Lets say you have this string in a variable (case insensitive):
+```
+`etc etc etc<!-- etc etc<scRipT> etc`
+```
+This will break any html tag after it.
+
+Or lets say you divided that into some variables:
+```
+const first = `etc etc etc <!--`;
+const second = `anything`;
+const third = `<script>`
+```
+This will also break the html page.
+
+Therefore please carefully assign any string that contains 
+``` 
+`<!--<script>` 
+```
+or similar into a variable, if it is inside `<script>` tag.
+
+
+[codepen example](https://codepen.io/Labnan/pen/XWaQNxV)
+
+
+Feel free to ask any question related to this in the comments :)
+
+
